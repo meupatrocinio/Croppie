@@ -1,5 +1,5 @@
 {
-  "name": "mp-croppie",
+  "name": "croppie",
   "version": "2.6.2",
   "description": "A simple javascript image cropper",
   "main": "croppie.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meupatrocinio/Croppie.git"
+    "url": "git+https://github.com/Foliotek/Croppie.git"
   },
   "keywords": [
     "crop",
