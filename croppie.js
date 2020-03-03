@@ -1418,7 +1418,6 @@
         drawCanvas(canvas, self.elements.img, self.data.orientation);
         _updateZoomLimits.call(self);
         _onZoom.call(self);
-        copy = null;
     }
 
     function _destroy() {
