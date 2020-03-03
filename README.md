@@ -1,5 +1,5 @@
 # Croppie - A Javascript Image Cropper
-
+    forked from croppie
 
 ## To Install
 Bower: `bower install croppie`
